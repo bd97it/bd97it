@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">A passionate Software & Cloud Engineer from Türkiye</h3>
+<h3 align="center">A Software & Cloud Engineer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bd97it&label=Profile%20views&color=0e75b6&style=flat" alt="bd97it" /> </p>
 
-
-- 🌱 I’m currently learning **GCP and Advanced Architectural Patterns with Kafka in Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/bd97it](https://www.github.com/bd97it)
 
