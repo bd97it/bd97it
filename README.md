@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **berkdelibalta@gmail.com**
 
-- ⚡ Fun fact **I am social but I don't like being social**
 
 
 <h3 align="left">Connect with me:</h3>
