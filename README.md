@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/bd97it](https://www.github.com/bd97it)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/berkdelibalta](https://www.linkedin.com/in/berkdelibalta)
-
 - 💬 Ask me about **AWS,Spring Boot and Java**
 
 - 📫 How to reach me **berkdelibalta@gmail.com**
